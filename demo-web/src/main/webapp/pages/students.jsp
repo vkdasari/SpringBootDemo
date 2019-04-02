@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-	<h1>Student Added:</h1>
+	<h1>Student details Added:</h1>
 	<br>
 	<h2>${obj.roll}, ${obj.name}, ${obj.age}
 	
